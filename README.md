@@ -1,0 +1,1 @@
+Master's Thesis Research Project. Prototype was developed to help retailers determine what may be leading to high turnover rates. Data simulated in R was taken from findings in published literature on the subject
